@@ -1,0 +1,24 @@
+Name: Bower, Adam
+Major: CEN
+ID: 1234-4556
+
+Graduation Date: 12/2015
+
+Name: Ford, Harrison
+Major: CEN
+ID: 1022-1222
+
+Graduation Date: 12/2015
+
+Name: Larry, Bob
+Major: CIS
+ID: 2229-8888
+
+Graduation Date: 05/2015
+
+Name: Norris, Chuck
+Major: DAS
+ID: 3221-4838
+
+Graduation Date: 05/2015
+

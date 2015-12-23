@@ -1,0 +1,18 @@
+Is memory allocated for an array variable when it is declared? When is the memory allocated for an array?
+
+Yes, memory is always allocated for an array when it is created. In a double or int array, the unedited data will be 0, and in strings it
+will just appear as a null string "". Memory is always allocated for the size of the array, regardless of whether it is initialized
+through Object[] name = new Object[x] or through putting in actual values.
+
+What is the printout of the following code? Why x is not the same as numbers.length?
+
+int x = 10;
+int[] numbers = new int[x];
+x = 60;
+System.out.println("x is " + x);
+System.out.println("The size of numbers is " + numbers.length);
+
+x is 60
+The size of numbers is 10
+
+x is changed after int[] numbers is initialized so the length of numbers (10), will not change while the value of x will change (to 60).
